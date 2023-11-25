@@ -1,0 +1,32 @@
+.carousel-heading {
+  font-size: 72px;
+  font-weight: 600;
+  position: absolute;
+}
+
+.shop-button {
+  display: inline-flex;
+  padding: 7px 30px;
+  align-items: center;
+  justify-content: center;
+  height: 48px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  width: auto;
+  border-radius: 50px;
+  text-align: center;
+  border: 1px solid #fff;
+  color: #212122;
+  background: #fff;
+  transition: color 0.3s ease;
+}
+
+.shop-button:hover {
+  cursor: pointer;
+  background: #212122;
+  color: #fff;
+}
+
+.word {
+  white-space: nowrap;
+}
