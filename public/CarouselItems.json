@@ -15,7 +15,7 @@
         "imageUrl": "img2.png",
         "position": "right",
         "top": "-400px",
-        "left": "700px"
+        "left": "600px"
       },
       {
         "id": 3,
@@ -39,7 +39,7 @@
         "imageUrl": "img5.png",
         "position": "right",
         "top": "-400px",
-        "left": "700px"
+        "left": "600px"
       }
     ]
   }

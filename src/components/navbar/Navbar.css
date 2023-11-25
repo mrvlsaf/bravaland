@@ -31,6 +31,10 @@
   margin: 0;
 }
 
+.left-menu-list {
+  display: none;
+}
+
 .left-menu-list li {
   position: relative;
   display: inline-flex;
@@ -96,7 +100,7 @@
 }
 
 .right-menu-social {
-  display: inline-flex;
+  display: none;
   align-items: center;
 }
 
@@ -112,9 +116,20 @@
   width: 18px;
 }
 
-@media only screen and (min-width: 1068px) {
+@media only screen and (min-width: 1095px) {
   .navbar-inner-container {
     min-height: 80px;
+  }
+
+  .right-menu-social,
+  .left-menu-list {
+    display: inline-flex;
+  }
+}
+
+@media only screen and (max-width: 1095px) {
+  .css-6iz4mj-MuiButtonBase-root-MuiIconButton-root {
+    display: block;
   }
 }
 

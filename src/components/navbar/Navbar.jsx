@@ -4,6 +4,8 @@ import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 import TwitterIcon from '@mui/icons-material/Twitter';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import MusicNoteIcon from '@mui/icons-material/MusicNote';
+import IconButton from '@mui/material/IconButton';
+import MenuIcon from '@mui/icons-material/Menu';
 import PersonIcon from '@mui/icons-material/Person';
 import SearchOutlinedIcon from '@mui/icons-material/SearchOutlined';
 import LocalMallOutlinedIcon from '@mui/icons-material/LocalMallOutlined';
@@ -13,6 +15,15 @@ function Navbar() {
     <div className='navbar-container'>
       <div className='navbar-inner-container'>
         <div className='left-menu'>
+          <IconButton
+            color="inherit"
+            aria-label="open drawer"
+            edge="start"
+            // onClick={handleDrawerToggle}
+            sx={{ mr: 2, display: { sm: 'none' } }}
+          >
+            <MenuIcon />
+          </IconButton>
           <ul className='left-menu-list'>
             <li style={{ paddingLeft: "0" }}>
               brands
