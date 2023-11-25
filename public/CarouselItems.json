@@ -1,0 +1,31 @@
+{
+  "items": {
+    "carouselItems": [
+      {
+        "id": 1,
+        "heading": "heritage hoodies",
+        "imageUrl": "img1.png"
+      },
+      {
+        "id": 2,
+        "heading": "heritage tees",
+        "imageUrl": "img2.png"
+      },
+      {
+        "id": 3,
+        "heading": "premium zip hoodies",
+        "imageUrl": "img3.png"
+      },
+      {
+        "id": 4,
+        "heading": "premium tees",
+        "imageUrl": "img4.png"
+      },
+      {
+        "id": 5,
+        "heading": "heritage women's tanks",
+        "imageUrl": "img5.png"
+      }
+    ]
+  }
+}

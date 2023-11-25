@@ -28,6 +28,7 @@
   text-align: left;
   list-style: none;
   display: flex;
+  margin: 0;
 }
 
 .left-menu-list li {

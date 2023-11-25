@@ -1,0 +1,42 @@
+{
+  "items": {
+    "FeatureBrandsItems": [
+      {
+        "id": 1,
+        "name": "$hosky",
+        "bgColor": "rgb(35, 107, 211)",
+        "imageUrl": "b_img1.png"
+      },
+      {
+        "id": 2,
+        "name": "danketsu",
+        "bgColor": "rgb(162, 82, 208)",
+        "imageUrl": "b_img2.png"
+      },
+      {
+        "id": 3,
+        "name": "bitfins",
+        "bgColor": "rgb(9, 31, 44)",
+        "imageUrl": "b_img3.png"
+      },
+      {
+        "id": 4,
+        "name": "future fest",
+        "bgColor": "rgb(0, 0, 0)",
+        "imageUrl": "b_img4.png"
+      },
+      {
+        "id": 5,
+        "name": "vudu brigada",
+        "bgColor": "rgb(0, 0, 0)",
+        "imageUrl": "b_img5.png"
+      },
+      {
+        "id": 6,
+        "name": "pendulum",
+        "bgColor": "rgb(0, 0, 0)",
+        "imageUrl": "b_img6.png"
+      }
+    ]
+  }
+}
