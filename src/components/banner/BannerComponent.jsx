@@ -30,10 +30,9 @@ export default function BannerComponent() {
           <img src={item.imageUrl} alt="slides" />
           <Carousel.Caption>
             <div style={{ textAlign: `${item.position}`, top: `${item.top}`, left: `${item.left}` }} className="carousel-heading">
-              {/* {item.heading} */}
               {splitTextIntoWords(item.heading)}
             </div>
-            <div className="shop-button">shop now</div>
+            <div style={{ bottom: "180px", left: `${item.left}` }} className="shop-button">shop now</div>
           </Carousel.Caption>
         </Carousel.Item>
       ))}

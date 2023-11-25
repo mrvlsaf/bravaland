@@ -1,5 +1,5 @@
 .carousel-heading {
-  font-size: 72px;
+  font-size: 40px;
   font-weight: 600;
   position: absolute;
 }
@@ -10,6 +10,7 @@
   align-items: center;
   justify-content: center;
   height: 48px;
+  position: absolute;
   font-size: 0.875rem;
   font-weight: 600;
   width: auto;
@@ -29,4 +30,10 @@
 
 .word {
   white-space: nowrap;
+}
+
+@media only screen and (min-width: 768px){
+  .carousel-heading{
+    font-size: 60px;
+  }
 }

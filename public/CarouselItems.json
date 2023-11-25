@@ -6,7 +6,7 @@
         "heading": "heritage hoodies",
         "imageUrl": "img1.png",
         "position": "left",
-        "top": "-400px",
+        "top": "-460px",
         "left": "-50px"
       },
       {
@@ -14,7 +14,7 @@
         "heading": "heritage tees",
         "imageUrl": "img2.png",
         "position": "right",
-        "top": "-400px",
+        "top": "-460px",
         "left": "600px"
       },
       {
@@ -22,7 +22,7 @@
         "heading": "premium zip hoodies",
         "imageUrl": "img3.png",
         "position": "left",
-        "top": "-400px",
+        "top": "-460px",
         "left": "-50px"
       },
       {
@@ -30,7 +30,7 @@
         "heading": "premium tees",
         "imageUrl": "img4.png",
         "position": "left",
-        "top": "-400px",
+        "top": "-460px",
         "left": "-50px"
       },
       {
@@ -38,7 +38,7 @@
         "heading": "heritage women's tanks",
         "imageUrl": "img5.png",
         "position": "right",
-        "top": "-400px",
+        "top": "-460px",
         "left": "600px"
       }
     ]
