@@ -1,0 +1,31 @@
+.announcement-bar {
+  background: #e1c300;
+  color: #fff;
+  line-height: 1;
+  padding: 14px 0;
+}
+
+.announcement-bar-inner {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  max-width: none;
+  white-space: nowrap;
+  font-size: 0.8125rem;
+  font-weight: 400;
+  overflow: hidden;
+}
+
+.announcement-bar-inner-content {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.announcement-bar-inner-content a {
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #212122;
+  font-family: "Made Tommy Soft Regular", sans-serif;
+}
